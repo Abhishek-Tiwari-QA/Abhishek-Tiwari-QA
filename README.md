@@ -6,7 +6,7 @@
 🧰 **Tech Stack**
 - Manual Testing | Test Case Design | Bug Reporting (JIRA)
 - Python | Selenium | Pytest (Learning phase)
-- Git | GitHub | VS Code | Postman (Basic)
+- Git | GitHub | VS Code | Postman 
 - Agile | SDLC | STLC
 - API Postman | Performance J-Meter
 
