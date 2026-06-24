@@ -1,11 +1,11 @@
 ### 👋 Hi, I’m Abhishek Tiwari
 
-🎯 A passionate **Manual QA Engineer** now exploring the world of **Automation Testing** using `Python`, `Selenium`, and more!
+🎯 A passionate **Manual QA Engineer** now exploring the world of **Automation Testing** using `Java Script`, `Playwright`, and more!
 
 
 🧰 **Tech Stack**
 - Manual Testing | Test Case Design | Bug Reporting (JIRA)
-- Python | Selenium | Pytest (Learning phase)
+- JavaScript | Playwright (Learning phase)
 - Git | GitHub | VS Code | Postman 
 - Agile | SDLC | STLC
 - API Postman | Performance J-Meter
@@ -25,7 +25,7 @@
 
 
 📫 **Let's Connect**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/abhishek-tiwari-0546bb244) 
+- 🌐 [LinkedIn](www.linkedin.com/in/abhishek-tiwari-qa) 
 - 💼 [GitHub Projects](https://github.com/Abhishek-Tiwari-QA)
 
 
